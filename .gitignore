@@ -358,3 +358,10 @@ bench.html
 
 # ignore the downloaded binary files
 scripts/release/binary-downloads/
+
+
+# Added by cargo
+#
+# already existing elements were commented out
+
+#/target
